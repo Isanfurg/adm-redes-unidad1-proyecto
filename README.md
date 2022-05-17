@@ -1,7 +1,7 @@
 # adm-redes-unidad1-proyecto
 Proyecto 1 Administración de Redes
 Docker y Virtualización
-#Contexto
+# Contexto
 La pandemia que estamos atravesando ha golpeado fuertemente todos los sectores de la economía
 a nivel internacional. Particularmente en Chile, las Pymes afectadas representan el 81%, de las
 cuales el 45% no han podido seguir operando, producto de las cuarentenas y las restricciones
@@ -14,7 +14,7 @@ Para su evaluación deberán desplegar desarrollar el proyecto de manera individ
 una presentación del trabajo realizado. Además, cada estudiante deberá estar preparado para
 modificar cualquier parámetro de configuración, o responder las preguntas del profesor, para
 completar la nota.
-#Requisitos
+# Requisitos
 A continuación, se detallan los principales elementos que se deben desarrollar:
 • Instale Docker en algunas de las alternativas de virtualización vistas en clases (VBox o
 Proxmox). Escoja la que otorgue mejores rendimientos a su computador.
@@ -36,3 +36,6 @@ que contenga una copia de la base de datos que se ejecuta en el contenedor del S
 • Modifique el código de Prestashop (en caso que sea necesario) para cambiar la plantilla
 por defecto de la aplicación. El objetivo es que la tienda de la Pyme sea diferente al resto
 de sus competidores. Intente que sea lo más atractiva posible.
+# Configurar ejecucion de servicio de forma automatica 
+
+https://stackoverflow.com/questions/43671482/how-to-run-docker-compose-up-d-at-system-start-up****
