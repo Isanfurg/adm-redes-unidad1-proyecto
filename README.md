@@ -1,8 +1,7 @@
 # adm-redes-unidad1-proyecto
 Proyecto 1 Administración de Redes
 Docker y Virtualización
-Ricardo Pérez
-Introducción
+#Contexto
 La pandemia que estamos atravesando ha golpeado fuertemente todos los sectores de la economía
 a nivel internacional. Particularmente en Chile, las Pymes afectadas representan el 81%, de las
 cuales el 45% no han podido seguir operando, producto de las cuarentenas y las restricciones
@@ -15,6 +14,7 @@ Para su evaluación deberán desplegar desarrollar el proyecto de manera individ
 una presentación del trabajo realizado. Además, cada estudiante deberá estar preparado para
 modificar cualquier parámetro de configuración, o responder las preguntas del profesor, para
 completar la nota.
+#Requisitos
 A continuación, se detallan los principales elementos que se deben desarrollar:
 • Instale Docker en algunas de las alternativas de virtualización vistas en clases (VBox o
 Proxmox). Escoja la que otorgue mejores rendimientos a su computador.
